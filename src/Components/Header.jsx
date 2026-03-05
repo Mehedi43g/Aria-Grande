@@ -8,7 +8,7 @@ import { MdOutlineWifiCalling3 } from 'react-icons/md'
 const Header = () => {
   return (
     <Container>
-        <div className="  py-5  ">
+        <div className=" py-5 ">
             <div className="flex  gap-8 justify-center  mx-auto items-center border-2 border-[#333333a2] rounded-2xl py-2 w-6/12">
             <div className="border-r pr-1">
             <IoHomeSharp className='hover:scale-125  duration-300 ease-in-out  text-2xl text-[#333333a2]'/>
